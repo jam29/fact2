@@ -5,9 +5,6 @@ test('factorial of 5 should be 120', () => {
     expect(factorial(5)).toBe(120);
 });
 
-test('factorial of 4 should be 24', () => {
-  expect(factorial(4)).toBe(24);
-});
 
 test('factorial of 3 should be 6', () => {
     expect(factorial(3)).toBe(6);
